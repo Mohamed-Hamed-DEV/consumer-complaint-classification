@@ -1,0 +1,7 @@
+gradio
+tensorflow
+transformers==4.46.0
+tf-keras
+nltk
+numpy
+scikit-learn
